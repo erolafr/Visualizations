@@ -2,6 +2,7 @@
 # Author: Erola Fenollosa
 # Data sources:
 ### BROT 2.0 Database: https://www.uv.es/jgpausas/brot.htm [Downloaded 15/04/2022]
+## Published by Tavşanoğlu and Pausas 2018 Sci Data: https://www.nature.com/articles/sdata2018135
 
 # Note: The downloaded database has been preprocessed selecting only three traits: SLA (Specific leaf area), Seed Mass and plant height, averaging them if multiple values were registred in the database. This dendogram will be plotted with species that have data of those three functional traits.
 # The three selected funcional traits correspond to the three axis approach to classify species revised by Laughlin et al 2010 (Functional Ecology), the Leaf-Height-Seed (HLS) plant strategy scheme.
